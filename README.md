@@ -1,2 +1,2 @@
 # TDOR-Visualizations
-This is my first porject to look into and glean what insights we can from the TDR project 
+This is my first project to look into and glean what insights we can from the TDR project 
